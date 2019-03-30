@@ -1,0 +1,3 @@
+macro ¡(val)
+  !!{{val}}
+end
